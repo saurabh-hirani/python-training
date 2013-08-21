@@ -1,9 +1,10 @@
 python-training
 ===============
 
-As a part of the Python month celebration for Pycon India 2013, I had conducted a Python training at CIT, Gubbi, Bangalore. 
+As a part of the Python month celebration for Pycon India 2013, I had conducted an introductory Python training at CIT, Gubbi, Bangalore. This repo is a collection of the programs used for 
+the training.
 
-Following is a brief summary of the training:
+Following is a brief summary of the approach taken and the programs used:
 
 As it was an introductory session, I had planned accordingly and was doing 2 things - using http://anandology.com/python-practice-book/ (very good material for referring to while teaching) and using sample programs to teach the students. I covered upto Chapter 3 in the book and observed that it was better to go to the right depth rather than painting the picture broadly. 
 
