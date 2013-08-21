@@ -5,7 +5,7 @@ Sample programs used for the Python training I had conducted at CIT, Gubbi, Bang
 
 Following is a brief summary of the training:
 
-As it was an introductory session, I had planned accordingly and was doing 2 things - using http://anandology.com/python-practice-book/ and using the following sample programs in the attachment to teach the students. I covered upto Chapter 3 in the book and observed that it was better to go to the right depth rather than painting the picture broadly. 
+As it was an introductory session, I had planned accordingly and was doing 2 things - using http://anandology.com/python-practice-book/ (very good material for referring to while teaching) and using the following sample programs in the attachment to teach the students. I covered upto Chapter 3 in the book and observed that it was better to go to the right depth rather than painting the picture broadly. 
 
 For the code I had written sample programs - each building upon the other in developing a simple command line calculator. The idea was to increase complexity gradually and tailor the programs to introduce new concepts in the limited time I had for the training.
 
