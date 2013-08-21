@@ -1,7 +1,7 @@
 python-training
 ===============
 
-Sample programs used for the Python training I had conducted at CIT, Gubbi, Bangalore. 
+As a part of the Python month celebration for Pycon India 2013, I had conducted a Python training at CIT, Gubbi, Bangalore. 
 
 Following is a brief summary of the training:
 
