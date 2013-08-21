@@ -80,4 +80,4 @@ The code base contains the following sample programs under code/calc
   - desc: client for c10_server.py - reads in an input file containing with one or more operation per line (see input.txt for example), sends them
     to the server on 127.0.0.1:9000. Search for '127.0.0.1' in the program and update it to any other IP if its corresponding server is on a different
     machine.
-  - usage: python c10_client.py input.txt (requires tht c10_server.py be already running)
+  - usage: python c10_client.py input.txt (requires that c10_server.py be already running)
